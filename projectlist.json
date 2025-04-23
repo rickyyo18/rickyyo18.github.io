@@ -1,0 +1,32 @@
+{
+  "project1": {
+    "title": "Verge3D Xpomania Booth",
+    "description": "Interactive web experience featuring 3D models of booths for the Xpomania exhibition. Built using Verge3D toolkit.",
+    "image": "assets/img/xpomania.png"
+  },
+  "project2": {
+    "title": "NUS BAM",
+    "description": "VR simulation to simulate the procedures for covid-19 lab test. Built using Unreal Engine 4.27 for desktop VR (HP Reverb G2)",
+    "image": "assets/img/BAM.png"
+  },
+  "project3": {
+    "title": "TTSH 6S VR Training",
+    "description": "VR simulation to simulate and re-arrange the 6S (Safety, Sort, Straighten, Shine, Standardise and Sustain) procedures. Built using Unity for mobile VR (Oculus Quest 2)",
+    "image": "assets/img/ttsh.png"
+  },
+  "project4": {
+    "title": "SUSS Anechoic Chamber VR Experience",
+    "description": "VR simulation to simulate sound wave transmission in anechoic chamber and there are a number of multiple choice questions to test the player's knowledge. Built using Unity for mobile VR (Oculus Quest 2)",
+    "image": "assets/img/soundroom.png"
+  },
+  "project5": {
+    "title": "SUSS Filmmaking Lighting and Camera VR Simulation",
+    "description": "VR simulation to simulate lighting setup and camera movement in film making context. Lighting simulation and camera simulation are in separated project. Built using Unreal Engine 5.2 for desktop VR (HP Reverb G2)",
+    "image": "assets/img/lighting.png"
+  },
+  "project6": {
+    "title": "Jungle River Kayak VR",
+    "description": "Kayak adventure simulation game. Built using Unreal Engine 5.2 for desktop VR. Tested in HP Reverb G2 and Oculus Quest 2 and 3 using Meta Quest Link",
+    "image": "assets/img/kayak.png"
+  }
+}
