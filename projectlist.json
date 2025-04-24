@@ -76,5 +76,18 @@
 	"engine": "Unreal Engine",
 	"target": "Desktop VR",
 	"contribution": "1. Contributed on programming, feature enhancements, particle effect implementation, UI interaction, VR controller and interaction, sound, etc.\n2. Enhance kayak paddle movement calculations to be more accurate\n3. Added some obstacles along the river path"
+  },
+  "project7": {
+    "title": "FloNa Savior",
+    "description": "Augmented Reality-based educational application about the conservation of endangered animals and plants. Built using Unity for Android mobile device. Project used as my thesis for bachelor degree.",
+    "image1": "./assets/img/portfolio/flona.png",
+	"image2": "./assets/img/portfolio/flona2.png",
+	"image3": "./assets/img/portfolio/flona3.png",
+	"image4": "./assets/img/portfolio/flona4.png",
+	"image5": "./assets/img/portfolio/flona5.png",
+	"client": "-",
+	"engine": "Unity",
+	"target": "Mobile Android",
+	"contribution": "1. Contribute to the entire project development process\n2. Create quiz system with time limit and score\n3. Create AR gameplay using vuforia plugin in Unity\n4. Conducting research and collecting information related to several endangered animals and plants"
   }
 }
