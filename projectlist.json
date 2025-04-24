@@ -6,7 +6,10 @@
 	"image2": "./assets/img/portfolio/xpomania2.png",
 	"image3": "./assets/img/portfolio/xpomania3.png",
 	"image4": "./assets/img/portfolio/xpomania4.png",
-	"image5": "./assets/img/portfolio/xpomania5.png"
+	"image5": "./assets/img/portfolio/xpomania5.png",
+	"client": "-"
+	"engine": "Verge3D toolkit",
+	"target": "WebGL / Web Browser Interactive"
   },
   "project2": {
     "title": "NUS BAM",
@@ -15,7 +18,10 @@
 	"image2": "./assets/img/portfolio/BAM2.png",
 	"image3": "./assets/img/portfolio/BAM3.png",
 	"image4": "./assets/img/portfolio/BAM4.png",
-	"image5": "./assets/img/portfolio/BAM5.png"
+	"image5": "./assets/img/portfolio/BAM5.png",
+	"client": "National University of Singapore",
+	"engine": "Unreal Engine",
+	"target": "HP Reverb G2 (Desktop VR)"
   },
   "project3": {
     "title": "TTSH 6S VR Training",
@@ -24,7 +30,10 @@
 	"image2": "./assets/img/portfolio/ttsh2.png",
 	"image3": "./assets/img/portfolio/ttsh3.png",
 	"image4": "./assets/img/portfolio/ttsh4.png",
-	"image5": "./assets/img/portfolio/ttsh5.png"
+	"image5": "./assets/img/portfolio/ttsh5.png",
+	"client": "Tan Tock Seng Hospital",
+	"engine": "Unity",
+	"target": "Oculus Quest 2 (Mobile VR)"
   },
   "project4": {
     "title": "SUSS Anechoic Chamber VR Experience",
@@ -33,7 +42,10 @@
 	"image2": "./assets/img/portfolio/soundroom2.png",
 	"image3": "./assets/img/portfolio/soundroom3.png",
 	"image4": "./assets/img/portfolio/soundroom4.png",
-	"image5": "./assets/img/portfolio/soundroom5.png"
+	"image5": "./assets/img/portfolio/soundroom5.png",
+	"client": "Singapore University of Social Sciences",
+	"engine": "Unity",
+	"target": "Oculus Quest 2 (Mobile VR)"
   },
   "project5": {
     "title": "SUSS Filmmaking Lighting and Camera VR Simulation",
@@ -42,7 +54,10 @@
 	"image2": "./assets/img/portfolio/lighting2.png",
 	"image3": "./assets/img/portfolio/lighting3.png",
 	"image4": "./assets/img/portfolio/lighting4.png",
-	"image5": "./assets/img/portfolio/lighting5.png"
+	"image5": "./assets/img/portfolio/lighting5.png",
+	"client": "Singapore University of Social Sciences",
+	"engine": "Unreal Engine",
+	"target": "HP Reverb G2 (Desktop VR)"
   },
   "project6": {
     "title": "Jungle River Kayak VR",
@@ -51,6 +66,9 @@
 	"image2": "./assets/img/portfolio/kayak2.png",
 	"image3": "./assets/img/portfolio/kayak3.png",
 	"image4": "./assets/img/portfolio/kayak4.png",
-	"image5": "./assets/img/portfolio/kayak5.png"
+	"image5": "./assets/img/portfolio/kayak5.png",
+	"client": "-",
+	"engine": "Unreal Engine",
+	"target": "Desktop VR"
   }
 }

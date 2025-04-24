@@ -257,6 +257,9 @@
 		document.getElementById("image5").src = project.image5;
 		document.getElementById("image5").alt = project.title;
 		document.getElementById("description").innerText = project.description;
+		document.getElementById("client").innerText = project.client;
+		document.getElementById("engine").innerText = project.engine;
+		document.getElementById("target").innerText = project.target;
 	}
 
 	loadProject();
