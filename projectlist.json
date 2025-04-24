@@ -9,7 +9,8 @@
 	"image5": "./assets/img/portfolio/xpomania5.png",
 	"client": "-",
 	"engine": "Verge3D toolkit",
-	"target": "WebGL / Web Browser Interactive"
+	"target": "WebGL / Web Browser Interactive",
+	"contribution": "1. Create interactions using hotkeys to show detailed features and spots of the booth displayed, such as posters, videos, receptionist, meeting areas, etc.\n2. Implementing feature to various types of booth models from small, medium, and large\n3. Build and deploy to webGL so it can be displayed via a web browser"
   },
   "project2": {
     "title": "NUS BAM",
@@ -21,7 +22,8 @@
 	"image5": "./assets/img/portfolio/BAM5.png",
 	"client": "National University of Singapore",
 	"engine": "Unreal Engine",
-	"target": "HP Reverb G2 (Desktop VR)"
+	"target": "HP Reverb G2 (Desktop VR)",
+	"contribution": "1. Contributed on programming, gameplay scenario (2 of 3 scenarios), 3D model and animation implementation, UI interaction, VR controller and interaction, sound, etc.\n2. Architecture and feature implementation of the whole game based on the client needs\n3. Integrating game scoring system and game logs to the client's LMS system"
   },
   "project3": {
     "title": "TTSH 6S VR Training",
@@ -33,7 +35,8 @@
 	"image5": "./assets/img/portfolio/ttsh5.png",
 	"client": "Tan Tock Seng Hospital",
 	"engine": "Unity",
-	"target": "Oculus Quest 2 (Mobile VR)"
+	"target": "Oculus Quest 2 (Mobile VR)",
+	"contribution": "1. Initiate the project and contributed on programming, gameplay scenario (1 of 3 scenarios), 3D model and animation implementation, UI interaction, VR controller and interaction, sound, etc.\n2. Architecture and feature implementation of the whole game based on the client needs\n3. Integrating game scoring system output to the .csv file and save it locally"
   },
   "project4": {
     "title": "SUSS Anechoic Chamber VR Experience",
@@ -45,7 +48,8 @@
 	"image5": "./assets/img/portfolio/soundroom5.png",
 	"client": "Singapore University of Social Sciences",
 	"engine": "Unity",
-	"target": "Oculus Quest 2 (Mobile VR)"
+	"target": "Oculus Quest 2 (Mobile VR)",
+	"contribution": "1. Contributed on programming, gameplay scenario, 3D model implementation, UI interaction, VR controller and interaction, sound, etc.\n2. Architecture and feature implementation of the whole game based on the client needs\n3. Create quiz system with scores based on material provided by the client"
   },
   "project5": {
     "title": "SUSS Filmmaking Lighting and Camera VR Simulation",
@@ -57,7 +61,8 @@
 	"image5": "./assets/img/portfolio/lighting5.png",
 	"client": "Singapore University of Social Sciences",
 	"engine": "Unreal Engine",
-	"target": "HP Reverb G2 (Desktop VR)"
+	"target": "HP Reverb G2 (Desktop VR)",
+	"contribution": "1. Contributed on programming, gameplay scenario, 3D model and animation implementation, UI interaction, VR controller and interaction, sound, etc.\n2. Architecture and feature implementation of the whole game based on the client needs\n3. Create and implement functions to capturing photo(lighting project) and recording video(camera project)\n4. Create gallery and video player system to review the photo and video captured\n5. Conduct Unreal Engine training sessions for SUSS staff"
   },
   "project6": {
     "title": "Jungle River Kayak VR",
@@ -69,6 +74,7 @@
 	"image5": "./assets/img/portfolio/kayak5.png",
 	"client": "-",
 	"engine": "Unreal Engine",
-	"target": "Desktop VR"
+	"target": "Desktop VR",
+	"contribution": "1. Contributed on programming, feature enhancements, particle effect implementation, UI interaction, VR controller and interaction, sound, etc.\n2. Enhance kayak paddle movement calculations to be more accurate\n3. Added some obstacles along the river path"
   }
 }
