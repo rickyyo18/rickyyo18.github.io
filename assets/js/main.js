@@ -246,14 +246,8 @@
 		}
 
 		document.getElementById("title").innerText = project.title;
-		document.getElementById("image1").src = project.image1;
-		document.getElementById("image1").alt = project.title;
-		document.getElementById("image2").src = project.image2;
-		document.getElementById("image2").alt = project.title;
-		document.getElementById("image3").src = project.image3;
-		document.getElementById("image3").alt = project.title;
-		document.getElementById("image4").src = project.image4;
-		document.getElementById("image4").alt = project.title;
+		document.getElementById("image").src = project.image;
+		document.getElementById("image").alt = project.title;
 		document.getElementById("description").innerText = project.description;
 	}
 
