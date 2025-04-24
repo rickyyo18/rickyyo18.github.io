@@ -260,6 +260,7 @@
 		document.getElementById("client").innerText = project.client;
 		document.getElementById("engine").innerText = project.engine;
 		document.getElementById("target").innerText = project.target;
+		document.getElementById("contribution").innerText = project.contribution;
 	}
 
 	loadProject();
