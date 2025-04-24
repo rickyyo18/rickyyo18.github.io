@@ -7,7 +7,7 @@
 	"image3": "./assets/img/portfolio/xpomania3.png",
 	"image4": "./assets/img/portfolio/xpomania4.png",
 	"image5": "./assets/img/portfolio/xpomania5.png",
-	"client": "-"
+	"client": "-",
 	"engine": "Verge3D toolkit",
 	"target": "WebGL / Web Browser Interactive"
   },
